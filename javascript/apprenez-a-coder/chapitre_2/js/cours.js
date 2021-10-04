@@ -1,0 +1,11 @@
+var a;
+a=0;
+a++;
+a++;
+console.log("la variable a contient la valeur " + a);
+var b;
+b = Number("5");
+console.log(b+2);
+var c;
+c = String(5);
+console.log(c +" sur 5");
