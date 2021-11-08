@@ -8,3 +8,4 @@ Formatage du texte : https://developer.mozilla.org/fr/docs/Learn/HTML/Introducti
 
 Cours Javascript
 Les classes en javascript : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Classes
+Programmation fonctionnelle en Javascript : https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/
