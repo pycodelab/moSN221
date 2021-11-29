@@ -5,6 +5,7 @@ Liste des attributs de métadonnées : https://developer.mozilla.org/fr/docs/Web
 Site de palette de couleur : https://flatuicolors.com/palette/defo
 Formatage du texte : https://developer.mozilla.org/fr/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting
 Balise vidéo : https://developer.mozilla.org/fr/docs/Web/HTML/Element/video
+Balise <iframe> : https://developer.mozilla.org/fr/docs/Web/HTML/Element/iframe
 
 
 Cours Javascript
