@@ -19,6 +19,7 @@ Liste des langages de programmation : https://fr.wikipedia.org/wiki/Liste_de_lan
 Hello World dans plusieurs langages différents : https://fr.wikipedia.org/wiki/Liste_de_programmes_Hello_world
 Table ASCII : https://fr.wikibooks.org/wiki/Les_ASCII_de_0_%C3%A0_127/La_table_ASCII
 Doc Javascript : https://developer.mozilla.org/fr/docs/Web/JavaScript
+Règles Javascript : https://standardjs.com/rules-fr.html#javascript-standard-style
 
 Cours CSS
 Propriétés usuelles CSS : https://www.tutorialrepublic.com/css-reference/css3-properties.php
