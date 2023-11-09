@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moSN221
-- 👀 I’m interested in Python, Javascript, HTML, CSS, MySQL, PHP programming
+- 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
